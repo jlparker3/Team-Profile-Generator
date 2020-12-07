@@ -11,6 +11,9 @@ The purpose of this application is to provide an organized layout of members on 
 ## My Experience
 I enjoyed learning more about the posibilities that can be accomplished with constructors. 
 
+## Testing
+This application passed the test provided in the assignment. Provided proof at start of demo video.
+
 ## Credits
 Inquierer<br>
 Jest<br>
