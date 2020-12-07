@@ -1,12 +1,15 @@
-# Name of applications
-Team-Profile-Generator
+# Name of application
+Team Profile Generator
 
 
 # Video of working application
 
+
 ## Purpose
+The purpose of this application is to provide an organized layout of members on your team including: their name, title, id and position. If the position is an engineer, then the user will asked to provide their github. If the position is a manager, then the user will be asked to provide their office number. If the position is an intern, then the user will be asked to provide the school they attend. 
 
 ## My Experience
+I enjoyed learning more about the posibilities that can be accomplished with constructors. 
 
 ## Credits
 Inquierer<br>
